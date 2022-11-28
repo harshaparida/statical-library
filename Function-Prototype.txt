@@ -1,0 +1,3 @@
+float individual(float data[],int n);
+float Descrete(float a[],int b[],int n);
+float continous(float low[],float up[],int f[],int n);

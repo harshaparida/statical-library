@@ -1,0 +1,2 @@
+This code tends to describe some statistics operations through C-Program.
+Stattics is use to study methods for collecting, analyzing, interpreting and presenting empirical data.
